@@ -1,7 +1,7 @@
 {
-    "name": "server_app",
-    "short_name": "server_app",
-    "start_url": ".",
+    "name": "Self Served",
+    "short_name": "Self Served",
+    "start_url": "./self-served",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
